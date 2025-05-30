@@ -13,7 +13,7 @@ export default function About() {
         </p>
 
         <p className="text-gray-700 text-lg mb-4">
-          We respect your privacy and time. That's why we made this app with zero sign-up process
+          We respect your privacy and time. Thats why we made this app with zero sign-up process
           and absolutely no background data collection. Share clean, short links without any hassle.
         </p>
 
